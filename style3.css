@@ -1,0 +1,27 @@
+table{
+
+    margin-left: 60px;
+    width: 1100px;
+}
+th{
+
+    width: auto;
+
+    background-color: green;
+    
+
+
+}
+tr{
+    border: none;
+    width: 200px;   
+    
+
+}
+tr:nth-child(even)
+{
+    background-color: lightgray;
+}
+
+
+

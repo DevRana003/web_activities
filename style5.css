@@ -1,0 +1,57 @@
+.container{
+    height: 600px;
+    background-color: yellow;
+    border: 1px solid black;
+    display: flexbox;
+    margin-left: 400px;
+
+}
+.b1{
+    border: 1px solid black;
+    width: 150px;
+    background-color: white;
+    position: absolute;
+    top: 30px;
+    padding: 10px;
+}
+.b2{
+    
+    border: 1px solid black;
+    width: 150px;
+    background-color: white;
+    position: absolute;
+    top: 80px;
+    padding: 10px;
+
+}
+.b3{
+    border: 1px solid black;
+    width: 150px;
+    background-color: white;
+    position: absolute;
+    top: 133px;
+    padding: 10px;
+
+}
+.b4{
+    border: 1px solid black;
+    width: 150px;
+    background-color: white;
+    position: absolute;
+    top: 190px;
+    padding: 10px;
+
+}
+a{
+    font-size: 20px;
+}
+h1{
+    color: purple;
+    margin-left: 400px;
+}
+p{
+    color: red;
+    margin-left: 400px;
+}
+
+  
